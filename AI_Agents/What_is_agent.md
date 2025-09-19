@@ -92,7 +92,7 @@ This check is the fundamental gatekeeper that decides whether the loop continues
 
 Mutil Agent Frameworks:
 
-Langchain, Langgraph, CrewAI, AutoGen, Swarm, Agno, N8N
+Langchain, Langgraph, CrewAI, AutoGen, Swarm, Agno, N8N, make.com (Google ADK / OpenAI ADK)?
 
 ## 3. LMM-Based Agents
 <img src='images/LMM.PNG' style='display: block; margin-inline: auto; width: 800px'>
@@ -103,5 +103,8 @@ Langchain, Langgraph, CrewAI, AutoGen, Swarm, Agno, N8N
 ## 5. AI Trends / Conclusion
 <img src='images/AI_trends.PNG' style='display: block; margin-inline: auto; width: 800px'>
 <img src='images/conclusion.PNG' style='display: block; margin-inline: auto; width: 800px'>
+
+
+<img src='images/ReAct.PNG' style='display: block; margin-inline: auto; width: 800px'>
 
 
